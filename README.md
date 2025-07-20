@@ -4,10 +4,10 @@ This repository is the code of the paper **"**Distributed Unsupervised Represent
 
 ## Dataset
 
-The custom remote sensing dataset named FAIR-M.
+The custom remote sensing dataset named fair2m.
 
-*   &#x20;**Download link**: <https://pan.baidu.com/s/1HvpBlvwlLlo4HB0hqjpFcA>
-*   &#x20;**Extraction code**: `8am4`
+*   &#x20;**Download link**: <https://pan.baidu.com/s/1hJ0AIWz5DSoCjRFTLFZpug>
+*   &#x20;**Extraction code**: `4ed3 `
 
 go to the get\_dataset function in src/utils.py and modify the dataset path to your local directory.
 
@@ -24,4 +24,3 @@ python main.py --dirichlet --dir\_beta 0.5
 Run the following for evaluation:
 
 python linear\_evaluation.py
-
