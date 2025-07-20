@@ -4,7 +4,7 @@ This repository is the code of the paper **"**Distributed Unsupervised Represent
 
 ## Dataset
 
-The processed remote sensing dataset fair2m.
+The processed remote sensing dataset fair1m.
 
 *   &#x20;**Download link**: <https://pan.baidu.com/s/1hJ0AIWz5DSoCjRFTLFZpug>
 *   &#x20;**Extraction code**: `4ed3 `
